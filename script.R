@@ -1,5 +1,7 @@
 library(sidrar)
 
-ipca <- get_sidra(api = "/t/1737/n1/all/v/2266/p/all/d/v2266%2013")
+ipca <- get_sidra(x = 1737,
+                  variable = 2266,
+                  period = 'all')
 
 saveRDS(ipca, 'data/ipca.rds')
