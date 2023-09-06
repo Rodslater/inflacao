@@ -20,8 +20,10 @@ jobs:
         with:
           packages: |
             any::sidrar
+            any::dplyr
+            any::lubridate
 
-      - name: Execute Script ipca
+      - name: Execute Script
         run: |
           Rscript "data/script.R"   
 
