@@ -68,6 +68,9 @@ for (p in periodos) {
 ipca_grupos <- do.call(rbind, lista_dados)
 rownames(ipca_grupos) <- NULL
 
+ipca_grupos <- ipca_grupos |> 
+  filter(!is.na(Variacao))
+
 write_json(ipca_full, "data/ipca_full.json", pretty = TRUE, auto_unbox = TRUE)
 write_json(ipca_grupos, "data/ipca_grupos.json", pretty = TRUE, auto_unbox = TRUE)
 #############################################
