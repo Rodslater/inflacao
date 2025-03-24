@@ -1,0 +1,5419 @@
+[
+  {
+    "Data": "1979-12-01",
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-01-01",
+    "Variacao": 6.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-02-01",
+    "Variacao": 4.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-03-01",
+    "Variacao": 6.04,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-04-01",
+    "Variacao": 5.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-05-01",
+    "Variacao": 5.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-06-01",
+    "Variacao": 5.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-07-01",
+    "Variacao": 5.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-08-01",
+    "Variacao": 4.95,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-09-01",
+    "Variacao": 4.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-10-01",
+    "Variacao": 9.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-11-01",
+    "Variacao": 6.67,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1980-12-01",
+    "Variacao": 6.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-01-01",
+    "Variacao": 6.84,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-02-01",
+    "Variacao": 6.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-03-01",
+    "Variacao": 4.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-04-01",
+    "Variacao": 6.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-05-01",
+    "Variacao": 5.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-06-01",
+    "Variacao": 5.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-07-01",
+    "Variacao": 6.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-08-01",
+    "Variacao": 5.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-09-01",
+    "Variacao": 5.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-10-01",
+    "Variacao": 5.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-11-01",
+    "Variacao": 5.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1981-12-01",
+    "Variacao": 5.93,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-01-01",
+    "Variacao": 6.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-02-01",
+    "Variacao": 6.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-03-01",
+    "Variacao": 5.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-04-01",
+    "Variacao": 5.89,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-05-01",
+    "Variacao": 6.66,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-06-01",
+    "Variacao": 7.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-07-01",
+    "Variacao": 6.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-08-01",
+    "Variacao": 5.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-09-01",
+    "Variacao": 5.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-10-01",
+    "Variacao": 4.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-11-01",
+    "Variacao": 5.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1982-12-01",
+    "Variacao": 7.81,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-01-01",
+    "Variacao": 8.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-02-01",
+    "Variacao": 7.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-03-01",
+    "Variacao": 7.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-04-01",
+    "Variacao": 6.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-05-01",
+    "Variacao": 6.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-06-01",
+    "Variacao": 9.88,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-07-01",
+    "Variacao": 10.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-08-01",
+    "Variacao": 9.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-09-01",
+    "Variacao": 10.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-10-01",
+    "Variacao": 8.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-11-01",
+    "Variacao": 7.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1983-12-01",
+    "Variacao": 8.68,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-01-01",
+    "Variacao": 9.67,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-02-01",
+    "Variacao": 9.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-03-01",
+    "Variacao": 8.94,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-04-01",
+    "Variacao": 9.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-05-01",
+    "Variacao": 9.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-06-01",
+    "Variacao": 10.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-07-01",
+    "Variacao": 9.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-08-01",
+    "Variacao": 9.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-09-01",
+    "Variacao": 11.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-10-01",
+    "Variacao": 10.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-11-01",
+    "Variacao": 10.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1984-12-01",
+    "Variacao": 11.98,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-01-01",
+    "Variacao": 11.76,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-02-01",
+    "Variacao": 10.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-03-01",
+    "Variacao": 10.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-04-01",
+    "Variacao": 8.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-05-01",
+    "Variacao": 7.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-06-01",
+    "Variacao": 8.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-07-01",
+    "Variacao": 10.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-08-01",
+    "Variacao": 12.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-09-01",
+    "Variacao": 11.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-10-01",
+    "Variacao": 10.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-11-01",
+    "Variacao": 13.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1985-12-01",
+    "Variacao": 15.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-01-01",
+    "Variacao": 14.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-02-01",
+    "Variacao": 12.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-03-01",
+    "Variacao": 4.77,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-04-01",
+    "Variacao": 0.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-05-01",
+    "Variacao": 1.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-06-01",
+    "Variacao": 1.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-07-01",
+    "Variacao": 1.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-08-01",
+    "Variacao": 3.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-09-01",
+    "Variacao": 1.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-10-01",
+    "Variacao": 1.9,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-11-01",
+    "Variacao": 5.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1986-12-01",
+    "Variacao": 11.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-01-01",
+    "Variacao": 13.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-02-01",
+    "Variacao": 12.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-03-01",
+    "Variacao": 16.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-04-01",
+    "Variacao": 19.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-05-01",
+    "Variacao": 21.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-06-01",
+    "Variacao": 19.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-07-01",
+    "Variacao": 9.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-08-01",
+    "Variacao": 4.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-09-01",
+    "Variacao": 7.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-10-01",
+    "Variacao": 11.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-11-01",
+    "Variacao": 15.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1987-12-01",
+    "Variacao": 14.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-01-01",
+    "Variacao": 18.89,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-02-01",
+    "Variacao": 15.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-03-01",
+    "Variacao": 17.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-04-01",
+    "Variacao": 19.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-05-01",
+    "Variacao": 17.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-06-01",
+    "Variacao": 22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-07-01",
+    "Variacao": 21.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-08-01",
+    "Variacao": 21.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-09-01",
+    "Variacao": 27.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-10-01",
+    "Variacao": 25.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-11-01",
+    "Variacao": 27.94,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1988-12-01",
+    "Variacao": 28.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-01-01",
+    "Variacao": 37.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-02-01",
+    "Variacao": 16.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-03-01",
+    "Variacao": 6.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-04-01",
+    "Variacao": 8.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-05-01",
+    "Variacao": 17.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-06-01",
+    "Variacao": 28.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-07-01",
+    "Variacao": 27.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-08-01",
+    "Variacao": 33.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-09-01",
+    "Variacao": 37.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-10-01",
+    "Variacao": 39.77,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-11-01",
+    "Variacao": 47.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1989-12-01",
+    "Variacao": 51.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-01-01",
+    "Variacao": 67.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-02-01",
+    "Variacao": 75.73,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-03-01",
+    "Variacao": 82.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-04-01",
+    "Variacao": 15.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-05-01",
+    "Variacao": 7.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-06-01",
+    "Variacao": 11.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-07-01",
+    "Variacao": 12.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-08-01",
+    "Variacao": 12.88,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-09-01",
+    "Variacao": 14.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-10-01",
+    "Variacao": 14.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-11-01",
+    "Variacao": 16.81,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1990-12-01",
+    "Variacao": 18.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-01-01",
+    "Variacao": 20.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-02-01",
+    "Variacao": 20.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-03-01",
+    "Variacao": 11.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-04-01",
+    "Variacao": 4.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-05-01",
+    "Variacao": 7.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-06-01",
+    "Variacao": 11.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-07-01",
+    "Variacao": 12.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-08-01",
+    "Variacao": 15.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-09-01",
+    "Variacao": 15.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-10-01",
+    "Variacao": 20.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-11-01",
+    "Variacao": 25.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1991-12-01",
+    "Variacao": 23.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-01-01",
+    "Variacao": 25.94,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-02-01",
+    "Variacao": 24.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-03-01",
+    "Variacao": 21.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-04-01",
+    "Variacao": 19.93,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-05-01",
+    "Variacao": 24.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-06-01",
+    "Variacao": 20.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-07-01",
+    "Variacao": 21.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-08-01",
+    "Variacao": 22.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-09-01",
+    "Variacao": 24.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-10-01",
+    "Variacao": 25.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-11-01",
+    "Variacao": 22.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1992-12-01",
+    "Variacao": 25.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-01-01",
+    "Variacao": 30.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-02-01",
+    "Variacao": 24.98,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-03-01",
+    "Variacao": 27.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-04-01",
+    "Variacao": 27.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-05-01",
+    "Variacao": 27.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-06-01",
+    "Variacao": 30.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-07-01",
+    "Variacao": 30.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-08-01",
+    "Variacao": 32.96,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-09-01",
+    "Variacao": 35.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-10-01",
+    "Variacao": 33.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-11-01",
+    "Variacao": 35.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1993-12-01",
+    "Variacao": 36.84,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-01-01",
+    "Variacao": 41.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-02-01",
+    "Variacao": 40.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-03-01",
+    "Variacao": 42.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-04-01",
+    "Variacao": 42.68,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-05-01",
+    "Variacao": 44.03,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-06-01",
+    "Variacao": 47.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-07-01",
+    "Variacao": 6.84,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-08-01",
+    "Variacao": 1.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-09-01",
+    "Variacao": 1.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-10-01",
+    "Variacao": 2.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-11-01",
+    "Variacao": 2.81,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1994-12-01",
+    "Variacao": 1.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-01-01",
+    "Variacao": 1.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-02-01",
+    "Variacao": 1.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-03-01",
+    "Variacao": 1.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-04-01",
+    "Variacao": 2.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-05-01",
+    "Variacao": 2.67,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-06-01",
+    "Variacao": 2.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-07-01",
+    "Variacao": 2.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-08-01",
+    "Variacao": 0.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-09-01",
+    "Variacao": 0.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-10-01",
+    "Variacao": 1.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-11-01",
+    "Variacao": 1.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1995-12-01",
+    "Variacao": 1.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-01-01",
+    "Variacao": 1.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-02-01",
+    "Variacao": 1.03,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-03-01",
+    "Variacao": 0.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-04-01",
+    "Variacao": 1.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-05-01",
+    "Variacao": 1.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-06-01",
+    "Variacao": 1.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-07-01",
+    "Variacao": 1.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-08-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-09-01",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-10-01",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-11-01",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1996-12-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-01-01",
+    "Variacao": 1.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-02-01",
+    "Variacao": 0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-03-01",
+    "Variacao": 0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-04-01",
+    "Variacao": 0.88,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-05-01",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-06-01",
+    "Variacao": 0.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-07-01",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-08-01",
+    "Variacao": -0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-09-01",
+    "Variacao": 0.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-10-01",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-11-01",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1997-12-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-01-01",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-02-01",
+    "Variacao": 0.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-03-01",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-04-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-05-01",
+    "Variacao": 0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-06-01",
+    "Variacao": 0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-07-01",
+    "Variacao": -0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-08-01",
+    "Variacao": -0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-09-01",
+    "Variacao": -0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-10-01",
+    "Variacao": 0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-11-01",
+    "Variacao": -0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1998-12-01",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-01-01",
+    "Variacao": 0.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-02-01",
+    "Variacao": 1.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-03-01",
+    "Variacao": 1.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-04-01",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-05-01",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-06-01",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-07-01",
+    "Variacao": 1.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-08-01",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-09-01",
+    "Variacao": 0.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-10-01",
+    "Variacao": 1.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-11-01",
+    "Variacao": 0.95,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1999-12-01",
+    "Variacao": 0.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-01-01",
+    "Variacao": 0.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-02-01",
+    "Variacao": 0.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-03-01",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-04-01",
+    "Variacao": 0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-05-01",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-06-01",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-07-01",
+    "Variacao": 1.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-08-01",
+    "Variacao": 1.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-09-01",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-10-01",
+    "Variacao": 0.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-11-01",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2000-12-01",
+    "Variacao": 0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-01-01",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-02-01",
+    "Variacao": 0.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-03-01",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-04-01",
+    "Variacao": 0.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-05-01",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-06-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-07-01",
+    "Variacao": 1.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-08-01",
+    "Variacao": 0.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-09-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-10-01",
+    "Variacao": 0.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-11-01",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2001-12-01",
+    "Variacao": 0.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-01-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-02-01",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-03-01",
+    "Variacao": 0.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-04-01",
+    "Variacao": 0.8,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-05-01",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-06-01",
+    "Variacao": 0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-07-01",
+    "Variacao": 1.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-08-01",
+    "Variacao": 0.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-09-01",
+    "Variacao": 0.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-10-01",
+    "Variacao": 1.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-11-01",
+    "Variacao": 3.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2002-12-01",
+    "Variacao": 2.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-01-01",
+    "Variacao": 2.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-02-01",
+    "Variacao": 1.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-03-01",
+    "Variacao": 1.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-04-01",
+    "Variacao": 0.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-05-01",
+    "Variacao": 0.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-06-01",
+    "Variacao": -0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-07-01",
+    "Variacao": 0.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-08-01",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-09-01",
+    "Variacao": 0.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-10-01",
+    "Variacao": 0.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-11-01",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2003-12-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-01-01",
+    "Variacao": 0.76,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-02-01",
+    "Variacao": 0.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-03-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-04-01",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-05-01",
+    "Variacao": 0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-06-01",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-07-01",
+    "Variacao": 0.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-08-01",
+    "Variacao": 0.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-09-01",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-10-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-11-01",
+    "Variacao": 0.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2004-12-01",
+    "Variacao": 0.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-01-01",
+    "Variacao": 0.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-02-01",
+    "Variacao": 0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-03-01",
+    "Variacao": 0.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-04-01",
+    "Variacao": 0.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-05-01",
+    "Variacao": 0.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-06-01",
+    "Variacao": -0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-07-01",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-08-01",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-09-01",
+    "Variacao": 0.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-10-01",
+    "Variacao": 0.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-11-01",
+    "Variacao": 0.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2005-12-01",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-01-01",
+    "Variacao": 0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-02-01",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-03-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-04-01",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-05-01",
+    "Variacao": 0.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-06-01",
+    "Variacao": -0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-07-01",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-08-01",
+    "Variacao": 0.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-09-01",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-10-01",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-11-01",
+    "Variacao": 0.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2006-12-01",
+    "Variacao": 0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-01-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-02-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-03-01",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-04-01",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-05-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-06-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-07-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-08-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-09-01",
+    "Variacao": 0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-10-01",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-11-01",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2007-12-01",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-01-01",
+    "Variacao": 0.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-02-01",
+    "Variacao": 0.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-03-01",
+    "Variacao": 0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-04-01",
+    "Variacao": 0.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-05-01",
+    "Variacao": 0.79,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-06-01",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-07-01",
+    "Variacao": 0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-08-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-09-01",
+    "Variacao": 0.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-10-01",
+    "Variacao": 0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-11-01",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2008-12-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-01-01",
+    "Variacao": 0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-02-01",
+    "Variacao": 0.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-03-01",
+    "Variacao": 0.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-04-01",
+    "Variacao": 0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-05-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-06-01",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-07-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-08-01",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-09-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-10-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-11-01",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2009-12-01",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-01-01",
+    "Variacao": 0.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-02-01",
+    "Variacao": 0.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-03-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-04-01",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-05-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-06-01",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-07-01",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-08-01",
+    "Variacao": 0.04,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-09-01",
+    "Variacao": 0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-10-01",
+    "Variacao": 0.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-11-01",
+    "Variacao": 0.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2010-12-01",
+    "Variacao": 0.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-01-01",
+    "Variacao": 0.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-02-01",
+    "Variacao": 0.8,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-03-01",
+    "Variacao": 0.79,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-04-01",
+    "Variacao": 0.77,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-05-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-06-01",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-07-01",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-08-01",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-09-01",
+    "Variacao": 0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-10-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-11-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2011-12-01",
+    "Variacao": 0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-01-01",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-02-01",
+    "Variacao": 0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-03-01",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-04-01",
+    "Variacao": 0.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-05-01",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-06-01",
+    "Variacao": 0.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-07-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-08-01",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-09-01",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-10-01",
+    "Variacao": 0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-11-01",
+    "Variacao": 0.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2012-12-01",
+    "Variacao": 0.79,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-01-01",
+    "Variacao": 0.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-02-01",
+    "Variacao": 0.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-03-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-04-01",
+    "Variacao": 0.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-05-01",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-06-01",
+    "Variacao": 0.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-07-01",
+    "Variacao": 0.03,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-08-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-09-01",
+    "Variacao": 0.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-10-01",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-11-01",
+    "Variacao": 0.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2013-12-01",
+    "Variacao": 0.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-01-01",
+    "Variacao": 0.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-02-01",
+    "Variacao": 0.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-03-01",
+    "Variacao": 0.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-04-01",
+    "Variacao": 0.67,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-05-01",
+    "Variacao": 0.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-06-01",
+    "Variacao": 0.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-07-01",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-08-01",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-09-01",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-10-01",
+    "Variacao": 0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-11-01",
+    "Variacao": 0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2014-12-01",
+    "Variacao": 0.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-01-01",
+    "Variacao": 1.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-02-01",
+    "Variacao": 1.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-03-01",
+    "Variacao": 1.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-04-01",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-05-01",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-06-01",
+    "Variacao": 0.79,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-07-01",
+    "Variacao": 0.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-08-01",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-09-01",
+    "Variacao": 0.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-10-01",
+    "Variacao": 0.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-11-01",
+    "Variacao": 1.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2015-12-01",
+    "Variacao": 0.96,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-01-01",
+    "Variacao": 1.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-02-01",
+    "Variacao": 0.9,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-03-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-04-01",
+    "Variacao": 0.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-05-01",
+    "Variacao": 0.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-06-01",
+    "Variacao": 0.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-07-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-08-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-09-01",
+    "Variacao": 0.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-10-01",
+    "Variacao": 0.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-11-01",
+    "Variacao": 0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2016-12-01",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-01-01",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-02-01",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-03-01",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-04-01",
+    "Variacao": 0.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-05-01",
+    "Variacao": 0.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-06-01",
+    "Variacao": -0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-07-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-08-01",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-09-01",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-10-01",
+    "Variacao": 0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-11-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2017-12-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-01-01",
+    "Variacao": 0.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-02-01",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-03-01",
+    "Variacao": 0.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-04-01",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-05-01",
+    "Variacao": 0.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-06-01",
+    "Variacao": 1.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-07-01",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-08-01",
+    "Variacao": -0.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-09-01",
+    "Variacao": 0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-10-01",
+    "Variacao": 0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-11-01",
+    "Variacao": -0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2018-12-01",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-01-01",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-02-01",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-03-01",
+    "Variacao": 0.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-04-01",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-05-01",
+    "Variacao": 0.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-06-01",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-07-01",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-08-01",
+    "Variacao": 0.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-09-01",
+    "Variacao": -0.04,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-10-01",
+    "Variacao": 0.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-11-01",
+    "Variacao": 0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2019-12-01",
+    "Variacao": 1.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-01-01",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-02-01",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-03-01",
+    "Variacao": 0.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-04-01",
+    "Variacao": -0.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-05-01",
+    "Variacao": -0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-06-01",
+    "Variacao": 0.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-07-01",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-08-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-09-01",
+    "Variacao": 0.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-10-01",
+    "Variacao": 0.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-11-01",
+    "Variacao": 0.89,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2020-12-01",
+    "Variacao": 1.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-01-01",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-02-01",
+    "Variacao": 0.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-03-01",
+    "Variacao": 0.93,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-04-01",
+    "Variacao": 0.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-05-01",
+    "Variacao": 0.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-06-01",
+    "Variacao": 0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-07-01",
+    "Variacao": 0.96,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-08-01",
+    "Variacao": 0.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-09-01",
+    "Variacao": 1.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-10-01",
+    "Variacao": 1.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-11-01",
+    "Variacao": 0.95,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2021-12-01",
+    "Variacao": 0.73,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-01-01",
+    "Variacao": 0.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-02-01",
+    "Variacao": 1.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-03-01",
+    "Variacao": 1.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-04-01",
+    "Variacao": 1.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-05-01",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-06-01",
+    "Variacao": 0.67,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-07-01",
+    "Variacao": -0.68,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-08-01",
+    "Variacao": -0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-09-01",
+    "Variacao": -0.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-10-01",
+    "Variacao": 0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-11-01",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2022-12-01",
+    "Variacao": 0.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-01-01",
+    "Variacao": 0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-02-01",
+    "Variacao": 0.84,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-03-01",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-04-01",
+    "Variacao": 0.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-05-01",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-06-01",
+    "Variacao": -0.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-07-01",
+    "Variacao": 0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-08-01",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-09-01",
+    "Variacao": 0.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-10-01",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-11-01",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2023-12-01",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-01-01",
+    "Variacao": 0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-02-01",
+    "Variacao": 0.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-03-01",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-04-01",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-05-01",
+    "Variacao": 0.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-06-01",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-07-01",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-08-01",
+    "Variacao": -0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-09-01",
+    "Variacao": 0.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-10-01",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-11-01",
+    "Variacao": 0.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2024-12-01",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2025-01-01",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2025-02-01",
+    "Variacao": 1.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "1979-12-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-01-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-02-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-03-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-04-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-05-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-06-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-07-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-08-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-09-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-10-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-11-01",
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1980-12-01",
+    "Variacao": 99.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-01-01",
+    "Variacao": 99.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-02-01",
+    "Variacao": 103.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-03-01",
+    "Variacao": 101.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-04-01",
+    "Variacao": 103.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-05-01",
+    "Variacao": 103,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-06-01",
+    "Variacao": 103.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-07-01",
+    "Variacao": 104.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-08-01",
+    "Variacao": 105.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-09-01",
+    "Variacao": 107.88,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-10-01",
+    "Variacao": 99.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-11-01",
+    "Variacao": 96.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1981-12-01",
+    "Variacao": 95.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-01-01",
+    "Variacao": 95.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-02-01",
+    "Variacao": 96.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-03-01",
+    "Variacao": 97.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-04-01",
+    "Variacao": 96.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-05-01",
+    "Variacao": 98.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-06-01",
+    "Variacao": 101.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-07-01",
+    "Variacao": 101.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-08-01",
+    "Variacao": 102.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-09-01",
+    "Variacao": 102.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-10-01",
+    "Variacao": 101.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-11-01",
+    "Variacao": 101.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1982-12-01",
+    "Variacao": 104.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-01-01",
+    "Variacao": 108,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-02-01",
+    "Variacao": 110.38,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-03-01",
+    "Variacao": 113.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-04-01",
+    "Variacao": 115.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-05-01",
+    "Variacao": 114.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-06-01",
+    "Variacao": 120.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-07-01",
+    "Variacao": 127.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-08-01",
+    "Variacao": 134.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-09-01",
+    "Variacao": 146.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-10-01",
+    "Variacao": 156.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-11-01",
+    "Variacao": 161.9,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1983-12-01",
+    "Variacao": 164.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-01-01",
+    "Variacao": 166.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-02-01",
+    "Variacao": 170.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-03-01",
+    "Variacao": 174.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-04-01",
+    "Variacao": 182.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-05-01",
+    "Variacao": 189.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-06-01",
+    "Variacao": 189.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-07-01",
+    "Variacao": 188.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-08-01",
+    "Variacao": 189.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-09-01",
+    "Variacao": 193.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-10-01",
+    "Variacao": 197.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-11-01",
+    "Variacao": 205.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1984-12-01",
+    "Variacao": 215.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-01-01",
+    "Variacao": 221.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-02-01",
+    "Variacao": 225.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-03-01",
+    "Variacao": 228.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-04-01",
+    "Variacao": 224.88,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-05-01",
+    "Variacao": 219.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-06-01",
+    "Variacao": 214.76,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-07-01",
+    "Variacao": 216.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-08-01",
+    "Variacao": 224.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-09-01",
+    "Variacao": 222.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-10-01",
+    "Variacao": 222.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-11-01",
+    "Variacao": 233.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1985-12-01",
+    "Variacao": 242.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-01-01",
+    "Variacao": 250.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-02-01",
+    "Variacao": 256.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-03-01",
+    "Variacao": 238.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-04-01",
+    "Variacao": 215.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-05-01",
+    "Variacao": 198.38,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-06-01",
+    "Variacao": 178.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-07-01",
+    "Variacao": 156.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-08-01",
+    "Variacao": 137.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-09-01",
+    "Variacao": 117.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-10-01",
+    "Variacao": 100.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-11-01",
+    "Variacao": 85.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1986-12-01",
+    "Variacao": 79.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-01-01",
+    "Variacao": 77.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-02-01",
+    "Variacao": 77.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-03-01",
+    "Variacao": 97.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-04-01",
+    "Variacao": 133.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-05-01",
+    "Variacao": 179.4,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-06-01",
+    "Variacao": 230.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-07-01",
+    "Variacao": 254.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-08-01",
+    "Variacao": 259.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-09-01",
+    "Variacao": 280.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-10-01",
+    "Variacao": 315.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-11-01",
+    "Variacao": 353.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1987-12-01",
+    "Variacao": 363.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-01-01",
+    "Variacao": 386.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-02-01",
+    "Variacao": 399.9,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-03-01",
+    "Variacao": 405.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-04-01",
+    "Variacao": 405.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-05-01",
+    "Variacao": 389.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-06-01",
+    "Variacao": 398.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-07-01",
+    "Variacao": 456.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-08-01",
+    "Variacao": 545.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-09-01",
+    "Variacao": 662.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-10-01",
+    "Variacao": 761.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-11-01",
+    "Variacao": 858.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1988-12-01",
+    "Variacao": 980.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-01-01",
+    "Variacao": 1149.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-02-01",
+    "Variacao": 1160.88,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-03-01",
+    "Variacao": 1045.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-04-01",
+    "Variacao": 940.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-05-01",
+    "Variacao": 944.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-06-01",
+    "Variacao": 1001.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-07-01",
+    "Variacao": 1054.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-08-01",
+    "Variacao": 1169.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-09-01",
+    "Variacao": 1269.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-10-01",
+    "Variacao": 1424.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-11-01",
+    "Variacao": 1660.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1989-12-01",
+    "Variacao": 1972.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-01-01",
+    "Variacao": 2426.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-02-01",
+    "Variacao": 3701.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-03-01",
+    "Variacao": 6390.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-04-01",
+    "Variacao": 6821.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-05-01",
+    "Variacao": 6214.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-06-01",
+    "Variacao": 5385.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-07-01",
+    "Variacao": 4749.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-08-01",
+    "Variacao": 3993.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-09-01",
+    "Variacao": 3304.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-10-01",
+    "Variacao": 2685.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-11-01",
+    "Variacao": 2101.34,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1990-12-01",
+    "Variacao": 1620.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-01-01",
+    "Variacao": 1140.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-02-01",
+    "Variacao": 752.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-03-01",
+    "Variacao": 422.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-04-01",
+    "Variacao": 375.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-05-01",
+    "Variacao": 374.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-06-01",
+    "Variacao": 372.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-07-01",
+    "Variacao": 369.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-08-01",
+    "Variacao": 381.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-09-01",
+    "Variacao": 386.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-10-01",
+    "Variacao": 411.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-11-01",
+    "Variacao": 448.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1991-12-01",
+    "Variacao": 472.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-01-01",
+    "Variacao": 497.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-02-01",
+    "Variacao": 515.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-03-01",
+    "Variacao": 567.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-04-01",
+    "Variacao": 662.16,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-05-01",
+    "Variacao": 785.81,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-06-01",
+    "Variacao": 857.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-07-01",
+    "Variacao": 937.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-08-01",
+    "Variacao": 996.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-09-01",
+    "Variacao": 1081.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-10-01",
+    "Variacao": 1130.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-11-01",
+    "Variacao": 1104.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1992-12-01",
+    "Variacao": 1119.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-01-01",
+    "Variacao": 1161.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-02-01",
+    "Variacao": 1168.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-03-01",
+    "Variacao": 1229.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-04-01",
+    "Variacao": 1316.42,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-05-01",
+    "Variacao": 1348.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-06-01",
+    "Variacao": 1467.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-07-01",
+    "Variacao": 1581.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-08-01",
+    "Variacao": 1730.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-09-01",
+    "Variacao": 1893.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-10-01",
+    "Variacao": 2031.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-11-01",
+    "Variacao": 2258.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1993-12-01",
+    "Variacao": 2477.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-01-01",
+    "Variacao": 2693.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-02-01",
+    "Variacao": 3035.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-03-01",
+    "Variacao": 3417.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-04-01",
+    "Variacao": 3828.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-05-01",
+    "Variacao": 4331.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-06-01",
+    "Variacao": 4922.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-07-01",
+    "Variacao": 4005.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-08-01",
+    "Variacao": 3044.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-09-01",
+    "Variacao": 2253.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-10-01",
+    "Variacao": 1703.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-11-01",
+    "Variacao": 1267.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1994-12-01",
+    "Variacao": 916.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-01-01",
+    "Variacao": 631.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-02-01",
+    "Variacao": 426.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-03-01",
+    "Variacao": 274.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-04-01",
+    "Variacao": 169.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-05-01",
+    "Variacao": 91.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-06-01",
+    "Variacao": 33.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-07-01",
+    "Variacao": 27.45,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-08-01",
+    "Variacao": 26.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-09-01",
+    "Variacao": 25.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-10-01",
+    "Variacao": 24.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-11-01",
+    "Variacao": 22.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1995-12-01",
+    "Variacao": 22.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-01-01",
+    "Variacao": 21.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-02-01",
+    "Variacao": 21.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-03-01",
+    "Variacao": 20.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-04-01",
+    "Variacao": 19.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-05-01",
+    "Variacao": 17.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-06-01",
+    "Variacao": 16.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-07-01",
+    "Variacao": 14.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-08-01",
+    "Variacao": 14.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-09-01",
+    "Variacao": 13.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-10-01",
+    "Variacao": 12.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-11-01",
+    "Variacao": 10.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1996-12-01",
+    "Variacao": 9.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-01-01",
+    "Variacao": 9.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-02-01",
+    "Variacao": 8.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-03-01",
+    "Variacao": 8.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-04-01",
+    "Variacao": 8.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-05-01",
+    "Variacao": 7.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-06-01",
+    "Variacao": 7.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-07-01",
+    "Variacao": 6.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-08-01",
+    "Variacao": 5.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-09-01",
+    "Variacao": 5.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-10-01",
+    "Variacao": 5.42,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-11-01",
+    "Variacao": 5.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1997-12-01",
+    "Variacao": 5.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-01-01",
+    "Variacao": 4.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-02-01",
+    "Variacao": 4.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-03-01",
+    "Variacao": 4.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-04-01",
+    "Variacao": 3.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-05-01",
+    "Variacao": 3.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-06-01",
+    "Variacao": 3.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-07-01",
+    "Variacao": 3.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-08-01",
+    "Variacao": 2.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-09-01",
+    "Variacao": 2.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-10-01",
+    "Variacao": 2.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-11-01",
+    "Variacao": 1.76,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1998-12-01",
+    "Variacao": 1.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-01-01",
+    "Variacao": 1.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-02-01",
+    "Variacao": 2.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-03-01",
+    "Variacao": 3.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-04-01",
+    "Variacao": 3.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-05-01",
+    "Variacao": 3.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-06-01",
+    "Variacao": 3.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-07-01",
+    "Variacao": 4.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-08-01",
+    "Variacao": 5.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-09-01",
+    "Variacao": 6.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-10-01",
+    "Variacao": 7.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-11-01",
+    "Variacao": 8.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "1999-12-01",
+    "Variacao": 8.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-01-01",
+    "Variacao": 8.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-02-01",
+    "Variacao": 7.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-03-01",
+    "Variacao": 6.92,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-04-01",
+    "Variacao": 6.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-05-01",
+    "Variacao": 6.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-06-01",
+    "Variacao": 6.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-07-01",
+    "Variacao": 7.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-08-01",
+    "Variacao": 7.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-09-01",
+    "Variacao": 7.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-10-01",
+    "Variacao": 6.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-11-01",
+    "Variacao": 5.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2000-12-01",
+    "Variacao": 5.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-01-01",
+    "Variacao": 5.92,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-02-01",
+    "Variacao": 6.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-03-01",
+    "Variacao": 6.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-04-01",
+    "Variacao": 6.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-05-01",
+    "Variacao": 7.04,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-06-01",
+    "Variacao": 7.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-07-01",
+    "Variacao": 7.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-08-01",
+    "Variacao": 6.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-09-01",
+    "Variacao": 6.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-10-01",
+    "Variacao": 7.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-11-01",
+    "Variacao": 7.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2001-12-01",
+    "Variacao": 7.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-01-01",
+    "Variacao": 7.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-02-01",
+    "Variacao": 7.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-03-01",
+    "Variacao": 7.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-04-01",
+    "Variacao": 7.98,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-05-01",
+    "Variacao": 7.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-06-01",
+    "Variacao": 7.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-07-01",
+    "Variacao": 7.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-08-01",
+    "Variacao": 7.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-09-01",
+    "Variacao": 7.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-10-01",
+    "Variacao": 8.45,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-11-01",
+    "Variacao": 10.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2002-12-01",
+    "Variacao": 12.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-01-01",
+    "Variacao": 14.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-02-01",
+    "Variacao": 15.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-03-01",
+    "Variacao": 16.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-04-01",
+    "Variacao": 16.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-05-01",
+    "Variacao": 17.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-06-01",
+    "Variacao": 16.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-07-01",
+    "Variacao": 15.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-08-01",
+    "Variacao": 15.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-09-01",
+    "Variacao": 15.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-10-01",
+    "Variacao": 13.98,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-11-01",
+    "Variacao": 11.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2003-12-01",
+    "Variacao": 9.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-01-01",
+    "Variacao": 7.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-02-01",
+    "Variacao": 6.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-03-01",
+    "Variacao": 5.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-04-01",
+    "Variacao": 5.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-05-01",
+    "Variacao": 5.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-06-01",
+    "Variacao": 6.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-07-01",
+    "Variacao": 6.81,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-08-01",
+    "Variacao": 7.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-09-01",
+    "Variacao": 6.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-10-01",
+    "Variacao": 6.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-11-01",
+    "Variacao": 7.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2004-12-01",
+    "Variacao": 7.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-01-01",
+    "Variacao": 7.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-02-01",
+    "Variacao": 7.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-03-01",
+    "Variacao": 7.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-04-01",
+    "Variacao": 8.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-05-01",
+    "Variacao": 8.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-06-01",
+    "Variacao": 7.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-07-01",
+    "Variacao": 6.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-08-01",
+    "Variacao": 6.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-09-01",
+    "Variacao": 6.04,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-10-01",
+    "Variacao": 6.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-11-01",
+    "Variacao": 6.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2005-12-01",
+    "Variacao": 5.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-01-01",
+    "Variacao": 5.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-02-01",
+    "Variacao": 5.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-03-01",
+    "Variacao": 5.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-04-01",
+    "Variacao": 4.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-05-01",
+    "Variacao": 4.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-06-01",
+    "Variacao": 4.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-07-01",
+    "Variacao": 3.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-08-01",
+    "Variacao": 3.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-09-01",
+    "Variacao": 3.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-10-01",
+    "Variacao": 3.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-11-01",
+    "Variacao": 3.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2006-12-01",
+    "Variacao": 3.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-01-01",
+    "Variacao": 2.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-02-01",
+    "Variacao": 3.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-03-01",
+    "Variacao": 2.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-04-01",
+    "Variacao": 3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-05-01",
+    "Variacao": 3.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-06-01",
+    "Variacao": 3.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-07-01",
+    "Variacao": 3.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-08-01",
+    "Variacao": 4.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-09-01",
+    "Variacao": 4.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-10-01",
+    "Variacao": 4.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-11-01",
+    "Variacao": 4.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2007-12-01",
+    "Variacao": 4.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-01-01",
+    "Variacao": 4.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-02-01",
+    "Variacao": 4.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-03-01",
+    "Variacao": 4.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-04-01",
+    "Variacao": 5.04,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-05-01",
+    "Variacao": 5.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-06-01",
+    "Variacao": 6.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-07-01",
+    "Variacao": 6.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-08-01",
+    "Variacao": 6.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-09-01",
+    "Variacao": 6.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-10-01",
+    "Variacao": 6.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-11-01",
+    "Variacao": 6.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2008-12-01",
+    "Variacao": 5.9,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-01-01",
+    "Variacao": 5.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-02-01",
+    "Variacao": 5.9,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-03-01",
+    "Variacao": 5.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-04-01",
+    "Variacao": 5.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-05-01",
+    "Variacao": 5.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-06-01",
+    "Variacao": 4.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-07-01",
+    "Variacao": 4.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-08-01",
+    "Variacao": 4.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-09-01",
+    "Variacao": 4.34,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-10-01",
+    "Variacao": 4.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-11-01",
+    "Variacao": 4.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2009-12-01",
+    "Variacao": 4.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-01-01",
+    "Variacao": 4.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-02-01",
+    "Variacao": 4.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-03-01",
+    "Variacao": 5.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-04-01",
+    "Variacao": 5.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-05-01",
+    "Variacao": 5.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-06-01",
+    "Variacao": 4.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-07-01",
+    "Variacao": 4.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-08-01",
+    "Variacao": 4.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-09-01",
+    "Variacao": 4.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-10-01",
+    "Variacao": 5.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-11-01",
+    "Variacao": 5.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2010-12-01",
+    "Variacao": 5.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-01-01",
+    "Variacao": 5.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-02-01",
+    "Variacao": 6.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-03-01",
+    "Variacao": 6.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-04-01",
+    "Variacao": 6.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-05-01",
+    "Variacao": 6.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-06-01",
+    "Variacao": 6.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-07-01",
+    "Variacao": 6.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-08-01",
+    "Variacao": 7.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-09-01",
+    "Variacao": 7.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-10-01",
+    "Variacao": 6.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-11-01",
+    "Variacao": 6.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2011-12-01",
+    "Variacao": 6.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-01-01",
+    "Variacao": 6.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-02-01",
+    "Variacao": 5.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-03-01",
+    "Variacao": 5.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-04-01",
+    "Variacao": 5.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-05-01",
+    "Variacao": 4.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-06-01",
+    "Variacao": 4.92,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-07-01",
+    "Variacao": 5.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-08-01",
+    "Variacao": 5.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-09-01",
+    "Variacao": 5.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-10-01",
+    "Variacao": 5.45,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-11-01",
+    "Variacao": 5.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2012-12-01",
+    "Variacao": 5.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-01-01",
+    "Variacao": 6.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-02-01",
+    "Variacao": 6.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-03-01",
+    "Variacao": 6.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-04-01",
+    "Variacao": 6.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-05-01",
+    "Variacao": 6.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-06-01",
+    "Variacao": 6.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-07-01",
+    "Variacao": 6.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-08-01",
+    "Variacao": 6.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-09-01",
+    "Variacao": 5.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-10-01",
+    "Variacao": 5.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-11-01",
+    "Variacao": 5.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2013-12-01",
+    "Variacao": 5.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-01-01",
+    "Variacao": 5.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-02-01",
+    "Variacao": 5.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-03-01",
+    "Variacao": 6.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-04-01",
+    "Variacao": 6.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-05-01",
+    "Variacao": 6.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-06-01",
+    "Variacao": 6.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-07-01",
+    "Variacao": 6.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-08-01",
+    "Variacao": 6.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-09-01",
+    "Variacao": 6.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-10-01",
+    "Variacao": 6.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-11-01",
+    "Variacao": 6.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2014-12-01",
+    "Variacao": 6.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-01-01",
+    "Variacao": 7.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-02-01",
+    "Variacao": 7.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-03-01",
+    "Variacao": 8.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-04-01",
+    "Variacao": 8.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-05-01",
+    "Variacao": 8.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-06-01",
+    "Variacao": 8.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-07-01",
+    "Variacao": 9.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-08-01",
+    "Variacao": 9.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-09-01",
+    "Variacao": 9.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-10-01",
+    "Variacao": 9.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-11-01",
+    "Variacao": 10.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2015-12-01",
+    "Variacao": 10.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-01-01",
+    "Variacao": 10.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-02-01",
+    "Variacao": 10.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-03-01",
+    "Variacao": 9.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-04-01",
+    "Variacao": 9.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-05-01",
+    "Variacao": 9.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-06-01",
+    "Variacao": 8.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-07-01",
+    "Variacao": 8.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-08-01",
+    "Variacao": 8.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-09-01",
+    "Variacao": 8.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-10-01",
+    "Variacao": 7.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-11-01",
+    "Variacao": 6.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2016-12-01",
+    "Variacao": 6.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-01-01",
+    "Variacao": 5.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-02-01",
+    "Variacao": 4.76,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-03-01",
+    "Variacao": 4.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-04-01",
+    "Variacao": 4.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-05-01",
+    "Variacao": 3.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-06-01",
+    "Variacao": 3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-07-01",
+    "Variacao": 2.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-08-01",
+    "Variacao": 2.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-09-01",
+    "Variacao": 2.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-10-01",
+    "Variacao": 2.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-11-01",
+    "Variacao": 2.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2017-12-01",
+    "Variacao": 2.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-01-01",
+    "Variacao": 2.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-02-01",
+    "Variacao": 2.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-03-01",
+    "Variacao": 2.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-04-01",
+    "Variacao": 2.76,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-05-01",
+    "Variacao": 2.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-06-01",
+    "Variacao": 4.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-07-01",
+    "Variacao": 4.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-08-01",
+    "Variacao": 4.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-09-01",
+    "Variacao": 4.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-10-01",
+    "Variacao": 4.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-11-01",
+    "Variacao": 4.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2018-12-01",
+    "Variacao": 3.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-01-01",
+    "Variacao": 3.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-02-01",
+    "Variacao": 3.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-03-01",
+    "Variacao": 4.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-04-01",
+    "Variacao": 4.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-05-01",
+    "Variacao": 4.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-06-01",
+    "Variacao": 3.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-07-01",
+    "Variacao": 3.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-08-01",
+    "Variacao": 3.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-09-01",
+    "Variacao": 2.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-10-01",
+    "Variacao": 2.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-11-01",
+    "Variacao": 3.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2019-12-01",
+    "Variacao": 4.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-01-01",
+    "Variacao": 4.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-02-01",
+    "Variacao": 4.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-03-01",
+    "Variacao": 3.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-04-01",
+    "Variacao": 2.4,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-05-01",
+    "Variacao": 1.88,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-06-01",
+    "Variacao": 2.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-07-01",
+    "Variacao": 2.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-08-01",
+    "Variacao": 2.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-09-01",
+    "Variacao": 3.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-10-01",
+    "Variacao": 3.92,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-11-01",
+    "Variacao": 4.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2020-12-01",
+    "Variacao": 4.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-01-01",
+    "Variacao": 4.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-02-01",
+    "Variacao": 5.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-03-01",
+    "Variacao": 6.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-04-01",
+    "Variacao": 6.76,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-05-01",
+    "Variacao": 8.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-06-01",
+    "Variacao": 8.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-07-01",
+    "Variacao": 8.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-08-01",
+    "Variacao": 9.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-09-01",
+    "Variacao": 10.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-10-01",
+    "Variacao": 10.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-11-01",
+    "Variacao": 10.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2021-12-01",
+    "Variacao": 10.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-01-01",
+    "Variacao": 10.38,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-02-01",
+    "Variacao": 10.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-03-01",
+    "Variacao": 11.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-04-01",
+    "Variacao": 12.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-05-01",
+    "Variacao": 11.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-06-01",
+    "Variacao": 11.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-07-01",
+    "Variacao": 10.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-08-01",
+    "Variacao": 8.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-09-01",
+    "Variacao": 7.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-10-01",
+    "Variacao": 6.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-11-01",
+    "Variacao": 5.9,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2022-12-01",
+    "Variacao": 5.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-01-01",
+    "Variacao": 5.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-02-01",
+    "Variacao": 5.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-03-01",
+    "Variacao": 4.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-04-01",
+    "Variacao": 4.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-05-01",
+    "Variacao": 3.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-06-01",
+    "Variacao": 3.16,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-07-01",
+    "Variacao": 3.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-08-01",
+    "Variacao": 4.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-09-01",
+    "Variacao": 5.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-10-01",
+    "Variacao": 4.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-11-01",
+    "Variacao": 4.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2023-12-01",
+    "Variacao": 4.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-01-01",
+    "Variacao": 4.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-02-01",
+    "Variacao": 4.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-03-01",
+    "Variacao": 3.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-04-01",
+    "Variacao": 3.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-05-01",
+    "Variacao": 3.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-06-01",
+    "Variacao": 4.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-07-01",
+    "Variacao": 4.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-08-01",
+    "Variacao": 4.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-09-01",
+    "Variacao": 4.42,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-10-01",
+    "Variacao": 4.76,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-11-01",
+    "Variacao": 4.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2024-12-01",
+    "Variacao": 4.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2025-01-01",
+    "Variacao": 4.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2025-02-01",
+    "Variacao": 5.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  }
+]
