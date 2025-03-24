@@ -31,7 +31,8 @@ ipca_full <- sidrar::get_sidra(
            `Variável (Código)` == "63" ~ "Mensal",
            `Variável (Código)` == "2265" ~ "Acumulado 12 meses"
          )) %>%
-  select(Data, Variacao = Valor, Tipo_Variacao)
+  select(Data, Variacao = Valor, Tipo_Variacao) %>%
+  filter(!is.na(Variacao))
 
 
 ## Série grupos
