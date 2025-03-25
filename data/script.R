@@ -71,6 +71,11 @@ rownames(ipca_grupos) <- NULL
 ipca_grupos <- ipca_grupos |> 
   filter(!is.na(Variacao))
 
+
+ipca_indice <- ipca |> 
+  rename(Data = Mês)
+
 write_json(ipca_full, "data/ipca_full.json", pretty = TRUE, auto_unbox = TRUE)
 write_json(ipca_grupos, "data/ipca_grupos.json", pretty = TRUE, auto_unbox = TRUE)
+write_json(ipca_indice, "data/ipca_indice.json", pretty = TRUE, auto_unbox = TRUE)
 #############################################
