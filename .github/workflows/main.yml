@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '0 13 * * *'
+    - cron:  '15 12 * * *'
   workflow_dispatch:
 
 name: 01-rscript
@@ -23,6 +23,7 @@ jobs:
             any::dplyr
             any::lubridate
             any::jsonlite
+            any::httr
 
       - name: Execute Script
         run: |
