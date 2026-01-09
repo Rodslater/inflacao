@@ -2755,6 +2755,11 @@
     "Tipo_Variacao": "Mensal"
   },
   {
+    "Data": "2025-12-01",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
     "Data": "1980-12-01",
     "Variacao": 99.25,
     "Tipo_Variacao": "Acumulado 12 meses"
@@ -5452,6 +5457,11 @@
   {
     "Data": "2025-11-01",
     "Variacao": 4.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2025-12-01",
+    "Variacao": 4.26,
     "Tipo_Variacao": "Acumulado 12 meses"
   }
 ]
