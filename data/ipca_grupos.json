@@ -345492,6 +345492,2748 @@
     "Tipo_Variacao": "Mensal"
   },
   {
+    "Data": "2026-06-01",
+    "Grupo": "Índice geral",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1.Alimentação e bebidas",
+    "Variacao": -0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "11.Alimentação no domicílio",
+    "Variacao": -0.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101.Cereais, leguminosas e oleaginosas",
+    "Variacao": 1.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101002.Arroz",
+    "Variacao": -0.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101051.Feijão - mulatinho",
+    "Variacao": 4.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101052.Feijão - preto",
+    "Variacao": 7.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101053.Feijão - macáçar (fradinho)",
+    "Variacao": 0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101073.Feijão - carioca (rajado)",
+    "Variacao": 8.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101079.Milho (em grão)",
+    "Variacao": -6.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102.Farinhas, féculas e massas",
+    "Variacao": 0.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102001.Farinha de arroz",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102006.Macarrão",
+    "Variacao": -0.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102008.Fubá de milho",
+    "Variacao": -1.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102010.Flocos de milho",
+    "Variacao": 0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102012.Farinha de trigo",
+    "Variacao": -0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102023.Farinha de mandioca",
+    "Variacao": 0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102029.Massa semipreparada",
+    "Variacao": 0.66,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102061.Macarrão instantâneo",
+    "Variacao": 1.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103.Tubérculos, raízes e legumes",
+    "Variacao": 1.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103002.Batata-doce",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103003.Batata-inglesa",
+    "Variacao": 3.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103004.Inhame",
+    "Variacao": 6.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103005.Mandioca (aipim)",
+    "Variacao": 1.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103020.Abobrinha",
+    "Variacao": 2.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103025.Pepino",
+    "Variacao": 19.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103026.Pimentão",
+    "Variacao": -2.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103028.Tomate",
+    "Variacao": -2.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103043.Cebola",
+    "Variacao": 2.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103044.Cenoura",
+    "Variacao": 3.98,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104.Açúcares e derivados",
+    "Variacao": -0.85,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104003.Açúcar refinado",
+    "Variacao": -3.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104004.Açúcar cristal",
+    "Variacao": -0.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104018.Balas",
+    "Variacao": 0.04,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104023.Chocolate em barra e bombom",
+    "Variacao": -0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104032.Sorvete",
+    "Variacao": -0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104052.Chocolate e achocolatado em pó",
+    "Variacao": -0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104060.Doce de frutas em pasta",
+    "Variacao": 0.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104067.Açúcar demerara",
+    "Variacao": -3.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105.Hortaliças e verduras",
+    "Variacao": -0.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105001.Alface",
+    "Variacao": 0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105004.Coentro",
+    "Variacao": -4.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105005.Couve",
+    "Variacao": 3.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105006.Couve-flor",
+    "Variacao": -3.03,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105010.Repolho",
+    "Variacao": 0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105012.Cheiro-verde",
+    "Variacao": -0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105019.Brócolis",
+    "Variacao": -4.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106.Frutas",
+    "Variacao": -1.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106001.Banana-da-terra",
+    "Variacao": -0.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106003.Abacaxi",
+    "Variacao": -1.93,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106004.Abacate",
+    "Variacao": -4.66,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106005.Banana - d'água",
+    "Variacao": 1.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106006.Banana - maçã",
+    "Variacao": -2.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106008.Banana - prata",
+    "Variacao": -2.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106011.Laranja - baía",
+    "Variacao": -13.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106012.Laranja - lima",
+    "Variacao": -9.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106015.Limão",
+    "Variacao": 3.81,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106017.Maçã",
+    "Variacao": -3.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106018.Mamão",
+    "Variacao": -2.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106019.Manga",
+    "Variacao": 5.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106020.Maracujá",
+    "Variacao": -1.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106021.Melancia",
+    "Variacao": -8.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106022.Melão",
+    "Variacao": -2.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106023.Pera",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106027.Tangerina",
+    "Variacao": -0.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106028.Uva",
+    "Variacao": -1.85,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106039.Laranja - pera",
+    "Variacao": -3.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106051.Morango",
+    "Variacao": 10.98,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106084.Goiaba",
+    "Variacao": 0.8,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107.Carnes",
+    "Variacao": -0.64,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107009.Fígado",
+    "Variacao": 1.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107018.Carne de porco",
+    "Variacao": -1.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107031.Carne de carneiro",
+    "Variacao": -0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107081.Cupim",
+    "Variacao": 0.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107084.Contrafilé",
+    "Variacao": -1.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107085.Filé-mignon",
+    "Variacao": -2.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107087.Chã de dentro",
+    "Variacao": -0.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107088.Alcatra",
+    "Variacao": -2.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107089.Patinho",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107090.Lagarto redondo",
+    "Variacao": 0.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107091.Lagarto comum",
+    "Variacao": -1.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107093.Músculo",
+    "Variacao": 0.75,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107094.Pá",
+    "Variacao": -0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107095.Acém",
+    "Variacao": 1.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107096.Peito",
+    "Variacao": -0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107097.Capa de filé",
+    "Variacao": -1.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107099.Costela",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107208.Picanha",
+    "Variacao": -1.9,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108.Pescados",
+    "Variacao": -0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108002.Peixe - anchova",
+    "Variacao": -1.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108004.Peixe - corvina",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108011.Peixe - tainha",
+    "Variacao": 3.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108012.Peixe - sardinha",
+    "Variacao": -1.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108013.Camarão",
+    "Variacao": -1.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108019.Peixe - cavala",
+    "Variacao": 0.96,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108029.Peixe - cação",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108031.Peixe - merluza",
+    "Variacao": 1.04,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108032.Peixe - serra",
+    "Variacao": 5.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108038.Peixe - pescada",
+    "Variacao": -5.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108045.Caranguejo",
+    "Variacao": -0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108049.Peixe - castanha",
+    "Variacao": -1.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108052.Peixe - palombeta",
+    "Variacao": 1.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108072.Peixe - curimatã",
+    "Variacao": -0.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108075.Peixe - salmão",
+    "Variacao": -1.54,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108080.Peixe - tilápia",
+    "Variacao": 1.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108087.Peixe - tambaqui",
+    "Variacao": -0.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108088.Peixe - dourada",
+    "Variacao": 2.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108092.Peixe - filhote",
+    "Variacao": 3.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108096.Peixe - peroá",
+    "Variacao": -3.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108112.Peixe - pintado",
+    "Variacao": 2.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108125.Peixe - aruanã",
+    "Variacao": 0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109.Carnes e peixes industrializados",
+    "Variacao": 0.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109002.Presunto",
+    "Variacao": -1.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109007.Salsicha",
+    "Variacao": -1.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109008.Linguiça",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109010.Mortadela",
+    "Variacao": -1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109012.Salame",
+    "Variacao": -1.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109023.Bacalhau",
+    "Variacao": 2.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109056.Carne-seca e de sol",
+    "Variacao": 2.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109058.Carne de porco salgada e defumada",
+    "Variacao": 0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110.Aves e ovos",
+    "Variacao": -0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110009.Frango inteiro",
+    "Variacao": -0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110010.Frango em pedaços",
+    "Variacao": -0.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110044.Ovo de galinha",
+    "Variacao": -0.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111.Leites e derivados",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111004.Leite longa vida",
+    "Variacao": -0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111008.Leite condensado",
+    "Variacao": 0.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111009.Leite em pó",
+    "Variacao": 0.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111011.Queijo",
+    "Variacao": 0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111019.Iogurte e bebidas lácteas",
+    "Variacao": 0.7,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111021.Requeijão",
+    "Variacao": 1.98,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111031.Manteiga",
+    "Variacao": -0.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111038.Leite fermentado",
+    "Variacao": 1.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112.Panificados",
+    "Variacao": -0.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112003.Biscoito",
+    "Variacao": -0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112015.Pão francês",
+    "Variacao": 0.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112017.Pão doce",
+    "Variacao": 0.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112018.Pão de forma",
+    "Variacao": -1.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112019.Bolo",
+    "Variacao": -1.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112025.Pão de queijo",
+    "Variacao": -0.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113.Óleos e gorduras",
+    "Variacao": -1.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113013.Óleo de soja",
+    "Variacao": -2.78,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113014.Azeite de oliva",
+    "Variacao": -0.81,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113040.Margarina",
+    "Variacao": -0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114.Bebidas e infusões",
+    "Variacao": -1.77,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114001.Suco de frutas",
+    "Variacao": -0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114003.Polpa de fruta (congelada)",
+    "Variacao": 0.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114004.Açaí (emulsão)",
+    "Variacao": -14.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114022.Café moído",
+    "Variacao": -3.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114023.Café solúvel",
+    "Variacao": -1.96,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114083.Refrigerante e água mineral",
+    "Variacao": 0.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114084.Cerveja",
+    "Variacao": -0.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114085.Outras bebidas alcoólicas",
+    "Variacao": 1.44,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114087.Vinho",
+    "Variacao": -0.89,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114090.Suco em pó",
+    "Variacao": 1.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114091.Chá mate (erva mate)",
+    "Variacao": 0.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115.Enlatados e conservas",
+    "Variacao": 0.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115013.Alimento infantil",
+    "Variacao": 1.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115016.Palmito em conserva",
+    "Variacao": -0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115017.Pepino em conserva",
+    "Variacao": 0.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115039.Sardinha em conserva",
+    "Variacao": 0.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115050.Salsicha em conserva",
+    "Variacao": 0.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115056.Sopa desidratada",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115057.Azeitona",
+    "Variacao": -0.79,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115058.Milho-verde em conserva",
+    "Variacao": 0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115075.Atum em conserva",
+    "Variacao": 0.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116.Sal e condimentos",
+    "Variacao": 1.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116001.Leite de coco",
+    "Variacao": -1.84,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116005.Atomatado",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116010.Alho",
+    "Variacao": 5.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116013.Sal",
+    "Variacao": 1.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116022.Colorau",
+    "Variacao": 1.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116023.Caldo de tucupi",
+    "Variacao": -1.92,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116026.Fermento",
+    "Variacao": -1.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116033.Maionese",
+    "Variacao": -0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116041.Vinagre",
+    "Variacao": 1.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116048.Caldo concentrado",
+    "Variacao": 1.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116071.Tempero misto",
+    "Variacao": 0.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "12.Alimentação fora do domicílio",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201.Alimentação fora do domicílio",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201001.Refeição",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201003.Lanche",
+    "Variacao": 0.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201007.Refrigerante e água mineral",
+    "Variacao": -0.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201009.Cafezinho",
+    "Variacao": 1.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201048.Cerveja",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201051.Outras bebidas alcoólicas",
+    "Variacao": 1.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201052.Vinho",
+    "Variacao": -2.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201061.Doces",
+    "Variacao": 1.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201088.Sorvete",
+    "Variacao": 0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2.Habitação",
+    "Variacao": 0.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "21.Encargos e manutenção",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101.Aluguel e taxas",
+    "Variacao": 0.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101001.Aluguel residencial",
+    "Variacao": 0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101002.Condomínio",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101004.Taxa de água e esgoto",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101012.Mudança",
+    "Variacao": 2.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103.Reparos",
+    "Variacao": 0.61,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103005.Ferragens",
+    "Variacao": 1.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103008.Material de eletricidade",
+    "Variacao": 2.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103012.Vidro",
+    "Variacao": 0.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103014.Tinta",
+    "Variacao": 0.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103032.Revestimento de piso e parede",
+    "Variacao": 0.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103038.Madeira e taco",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103039.Cimento",
+    "Variacao": 1.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103040.Tijolo",
+    "Variacao": -0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103041.Material hidráulico",
+    "Variacao": 2.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103042.Mão de obra",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103048.Areia",
+    "Variacao": 1.33,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103049.Pedras",
+    "Variacao": 0.63,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103055.Telha",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104.Artigos de limpeza",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104003.Saco para lixo",
+    "Variacao": -0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104005.Água sanitária",
+    "Variacao": 0.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104008.Detergente",
+    "Variacao": 1.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104009.Sabão em pó",
+    "Variacao": -1.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104012.Desinfetante",
+    "Variacao": 0.85,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104015.Sabão em barra",
+    "Variacao": 0.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104016.Esponja de limpeza",
+    "Variacao": -1.58,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104019.Sabão líquido",
+    "Variacao": -0.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104020.Limpador multiuso",
+    "Variacao": -0.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104041.Papel toalha",
+    "Variacao": 1.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104085.Amaciante e alvejante",
+    "Variacao": 0.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "22.Combustíveis e energia",
+    "Variacao": 1.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201.Combustíveis (domésticos)",
+    "Variacao": -0.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201003.Carvão vegetal",
+    "Variacao": 1.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201004.Gás de botijão",
+    "Variacao": -0.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201005.Gás encanado",
+    "Variacao": -0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2202.Energia elétrica residencial",
+    "Variacao": 1.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2202003.Energia elétrica residencial",
+    "Variacao": 1.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3.Artigos de residência",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "31.Móveis e utensílios",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101.Mobiliário",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101002.Móvel para sala",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101003.Móvel para quarto",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101015.Móvel para copa e cozinha",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101016.Móvel infantil",
+    "Variacao": -0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101017.Colchão",
+    "Variacao": 2.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102.Utensílios e enfeites",
+    "Variacao": -0.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102001.Artigos de iluminação",
+    "Variacao": -0.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102005.Tapete",
+    "Variacao": -0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102006.Cortina",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102007.Utensílios de metal",
+    "Variacao": -0.08,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102009.Utensílios de vidro e louça",
+    "Variacao": -0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102010.Utensílios de plástico",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102035.Flores naturais",
+    "Variacao": -1.86,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102337.Utensílios para bebê",
+    "Variacao": -0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3103.Cama, mesa e banho",
+    "Variacao": 0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3103001.Roupa de cama",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3103003.Roupa de banho",
+    "Variacao": -0.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "32.Aparelhos eletroeletrônicos",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201.Eletrodomésticos e equipamentos",
+    "Variacao": -0.79,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201001.Refrigerador",
+    "Variacao": -1.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201002.Ar-condicionado",
+    "Variacao": -1.6,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201006.Máquina de lavar roupa",
+    "Variacao": 0.55,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201013.Ventilador",
+    "Variacao": -1.51,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201021.Fogão",
+    "Variacao": -1.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201050.Chuveiro elétrico",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202.Tv, som e informática",
+    "Variacao": 1.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202001.Televisor",
+    "Variacao": 1.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202003.Aparelho de som",
+    "Variacao": 1.31,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202008.Videogame (console)",
+    "Variacao": 2.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202028.Computador pessoal",
+    "Variacao": 1.77,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "33.Consertos e manutenção",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301.Consertos e manutenção",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301002.Conserto de refrigerador",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301006.Conserto de televisor",
+    "Variacao": 2.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301015.Conserto de máquina de lavar roupa",
+    "Variacao": -0.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301022.Reforma de estofado",
+    "Variacao": 1.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301088.Conserto de aparelho celular",
+    "Variacao": -0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301130.Conserto de bicicleta",
+    "Variacao": 0.66,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4.Vestuário",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "41.Roupas",
+    "Variacao": 0.03,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101.Roupa masculina",
+    "Variacao": 0.26,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101002.Calça comprida masculina",
+    "Variacao": 0.24,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101005.Agasalho masculino",
+    "Variacao": 2.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101006.Bermuda/short masculino",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101008.Cueca",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101009.Camisa/camiseta masculina",
+    "Variacao": 0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102.Roupa feminina",
+    "Variacao": 0.05,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102002.Calça comprida feminina",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102003.Agasalho feminino",
+    "Variacao": 1.59,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102004.Saia",
+    "Variacao": -1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102005.Vestido",
+    "Variacao": 1.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102008.Blusa",
+    "Variacao": -0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102010.Lingerie",
+    "Variacao": -0.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102013.Bermuda/short feminino",
+    "Variacao": -1.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103.Roupa infantil",
+    "Variacao": -0.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103001.Uniforme escolar",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103002.Calça comprida infantil",
+    "Variacao": 0.91,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103005.Agasalho infantil",
+    "Variacao": 2.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103007.Vestido infantil",
+    "Variacao": -1.22,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103008.Bermuda/short infantil",
+    "Variacao": -0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103011.Camisa/camiseta infantil",
+    "Variacao": -0.88,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103031.Conjunto infantil",
+    "Variacao": -1.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "42.Calçados e acessórios",
+    "Variacao": 0.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201.Calçados e acessórios",
+    "Variacao": 0.62,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201002.Sapato masculino",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201003.Sapato feminino",
+    "Variacao": 0.88,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201004.Sapato infantil",
+    "Variacao": 1.97,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201015.Bolsa",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201040.Mochila",
+    "Variacao": -0.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201063.Tênis",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201098.Sandália/chinelo",
+    "Variacao": 0.88,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "43.Joias e bijuterias",
+    "Variacao": -0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301.Joias e bijuterias",
+    "Variacao": -0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301001.Bijuteria",
+    "Variacao": -1.82,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301002.Joia",
+    "Variacao": -0.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301004.Relógio de pulso",
+    "Variacao": -0.35,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "44.Tecidos e armarinho",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4401.Tecidos e armarinho",
+    "Variacao": 0.3,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4401001.Tecido",
+    "Variacao": 0.45,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4401002.Artigos de armarinho",
+    "Variacao": -0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5.Transportes",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "51.Transportes",
+    "Variacao": 0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101.Transporte público",
+    "Variacao": 2.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101001.Ônibus urbano",
+    "Variacao": 0.72,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101002.Táxi",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101004.Trem",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101006.Ônibus intermunicipal",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101007.Ônibus interestadual",
+    "Variacao": 0.94,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101010.Passagem aérea",
+    "Variacao": 7.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101011.Metrô",
+    "Variacao": 0.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101026.Transporte escolar",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101051.Transporte por aplicativo",
+    "Variacao": 1.8,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101053.Integração transporte público",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102.Veículo próprio",
+    "Variacao": -0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102001.Automóvel novo",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102004.Emplacamento e licença",
+    "Variacao": -0.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102005.Seguro voluntário de veículo",
+    "Variacao": -3.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102006.Multa",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102007.Óleo lubrificante",
+    "Variacao": 3.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102009.Acessórios e peças",
+    "Variacao": -0.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102010.Pneu",
+    "Variacao": -1.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102011.Conserto de automóvel",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102013.Estacionamento",
+    "Variacao": 1.03,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102015.Pedágio",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102020.Automóvel usado",
+    "Variacao": 0.1,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102037.Pintura de veículo",
+    "Variacao": -1.69,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102051.Aluguel de veículo",
+    "Variacao": 4.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102053.Motocicleta",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104.Combustíveis (veículos)",
+    "Variacao": -0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104001.Gasolina",
+    "Variacao": -0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104002.Etanol",
+    "Variacao": -3.09,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104003.Óleo diesel",
+    "Variacao": -1.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104005.Gás veicular",
+    "Variacao": -0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6.Saúde e cuidados pessoais",
+    "Variacao": 0.23,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "61.Produtos farmacêuticos e óticos",
+    "Variacao": -0.15,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101.Produtos farmacêuticos",
+    "Variacao": -0.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101001.Anti-infeccioso e antibiótico",
+    "Variacao": -0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101002.Analgésico e antitérmico",
+    "Variacao": -0.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101003.Anti-inflamatório e antirreumático",
+    "Variacao": -0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101004.Antigripal e antitussígeno",
+    "Variacao": 0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101006.Dermatológico",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101007.Antialérgico e broncodilatador",
+    "Variacao": 0.36,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101009.Gastroprotetor",
+    "Variacao": 0.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101010.Vitamina e fortificante",
+    "Variacao": -0.5,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101011.Hormonal",
+    "Variacao": -0.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101013.Psicotrópico e anorexígeno",
+    "Variacao": -0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101014.Hipotensor e hipocolesterolêmico",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101051.Oftalmológico",
+    "Variacao": 0.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101064.Antidiabético",
+    "Variacao": -0.42,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101148.Neurológico",
+    "Variacao": -0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6102.Produtos óticos",
+    "Variacao": -0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6102012.Óculos de grau",
+    "Variacao": -0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "62.Serviços de saúde",
+    "Variacao": 0.39,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201.Serviços médicos e dentários",
+    "Variacao": 0.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201002.Médico",
+    "Variacao": 0.46,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201003.Dentista",
+    "Variacao": 0.84,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201005.Aparelho ortodôntico",
+    "Variacao": 0.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201007.Fisioterapeuta",
+    "Variacao": 0.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201010.Psicólogo",
+    "Variacao": 0.66,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202.Serviços laboratoriais e hospitalares",
+    "Variacao": 0.2,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202003.Exame de laboratório",
+    "Variacao": 0.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202004.Hospitalização e cirurgia",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202006.Exame de imagem",
+    "Variacao": 0.06,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6203.Plano de saúde",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6203001.Plano de saúde",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "63.Cuidados pessoais",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301.Higiene pessoal",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301001.Produto para cabelo",
+    "Variacao": 0.11,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301002.Fralda descartável",
+    "Variacao": -0.29,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301004.Produto para barba",
+    "Variacao": 0.52,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301006.Produto para pele",
+    "Variacao": 0.77,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301007.Produto para higiene bucal",
+    "Variacao": 0.56,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301010.Produto para unha",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301011.Perfume",
+    "Variacao": 1.12,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301014.Desodorante",
+    "Variacao": -1.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301015.Absorvente higiênico",
+    "Variacao": 0.57,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301016.Sabonete",
+    "Variacao": 0.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301017.Papel higiênico",
+    "Variacao": -0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301020.Artigos de maquiagem",
+    "Variacao": 0.99,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7.Despesas pessoais",
+    "Variacao": 0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "71.Serviços pessoais",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101.Serviços pessoais",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101001.Costureira",
+    "Variacao": -0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101005.Manicure",
+    "Variacao": 0.16,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101010.Empregado doméstico",
+    "Variacao": 0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101011.Cabeleireiro e barbeiro",
+    "Variacao": 0.65,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101014.Depilação",
+    "Variacao": -0.48,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101034.Cartório",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101036.Despachante",
+    "Variacao": 0.85,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101076.Serviço bancário",
+    "Variacao": 0.18,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101090.Conselho de classe",
+    "Variacao": 0.43,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101144.Sobrancelha",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "72.Recreação e fumo",
+    "Variacao": -0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201.Recreação",
+    "Variacao": -0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201006.Clube",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201010.Instrumento musical",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201015.Tratamento de animais (clínica)",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201019.Bicicleta",
+    "Variacao": -0.53,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201020.Alimento para animais",
+    "Variacao": -0.47,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201023.Brinquedo",
+    "Variacao": 1.4,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201054.Casa noturna",
+    "Variacao": -0.87,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201063.Jogos de azar",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201067.Material de caça e pesca",
+    "Variacao": 2.41,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201090.Hospedagem",
+    "Variacao": -1.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201095.Pacote turístico",
+    "Variacao": 0.37,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201256.Serviço de higiene para animais",
+    "Variacao": 1.13,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201266.Cinema, teatro e concertos",
+    "Variacao": 0.67,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7202.Fumo",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7202041.Cigarro",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8.Educação",
+    "Variacao": -0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "81.Cursos, leitura e papelaria",
+    "Variacao": -0.02,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101.Cursos regulares",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101001.Creche",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101002.Pré-escola",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101003.Ensino fundamental",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101004.Ensino médio",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101005.Ensino superior",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101006.Pós-graduação",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101008.Educação de jovens e adultos",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101045.Curso técnico",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102.Leitura",
+    "Variacao": -0.17,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102001.Jornal diário",
+    "Variacao": 0.28,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102004.Revista",
+    "Variacao": -5.83,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102007.Livro didático",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102008.Livro não didático",
+    "Variacao": 0.95,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8103.Papelaria",
+    "Variacao": 0.38,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8103001.Caderno",
+    "Variacao": 0.49,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8103014.Artigos de papelaria",
+    "Variacao": 0.32,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104.Cursos diversos",
+    "Variacao": -0.14,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104001.Curso preparatório",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104003.Curso de idioma",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104004.Curso de informática",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104005.Autoescola",
+    "Variacao": -0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104006.Atividades físicas",
+    "Variacao": -0.25,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9.Comunicação",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "91.Comunicação",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101.Comunicação",
+    "Variacao": 0.19,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101001.Correio",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101002.Plano de telefonia fixa",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101008.Plano de telefonia móvel",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101010.Tv por assinatura",
+    "Variacao": 2.27,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101018.Acesso à internet",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101019.Aparelho telefônico",
+    "Variacao": 0.01,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101115.Serviços de streaming",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101116.Combo de telefonia, internet e tv por assinatura",
+    "Variacao": 0,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
     "Data": "2025-01-01",
     "Grupo": "Índice geral",
     "Variacao": 4.56,
@@ -392101,6 +394843,2748 @@
   },
   {
     "Data": "2026-05-01",
+    "Grupo": "9101116.Combo de telefonia, internet e tv por assinatura",
+    "Variacao": 1.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "Índice geral",
+    "Variacao": 4.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1.Alimentação e bebidas",
+    "Variacao": 3.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "11.Alimentação no domicílio",
+    "Variacao": 3.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101.Cereais, leguminosas e oleaginosas",
+    "Variacao": -4.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101002.Arroz",
+    "Variacao": -14.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101051.Feijão - mulatinho",
+    "Variacao": 4.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101052.Feijão - preto",
+    "Variacao": 9.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101053.Feijão - macáçar (fradinho)",
+    "Variacao": -8.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101073.Feijão - carioca (rajado)",
+    "Variacao": 47.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1101079.Milho (em grão)",
+    "Variacao": -4.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102.Farinhas, féculas e massas",
+    "Variacao": -0.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102001.Farinha de arroz",
+    "Variacao": 8.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102006.Macarrão",
+    "Variacao": -2.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102008.Fubá de milho",
+    "Variacao": -0.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102010.Flocos de milho",
+    "Variacao": 4.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102012.Farinha de trigo",
+    "Variacao": -5.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102023.Farinha de mandioca",
+    "Variacao": -0.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102029.Massa semipreparada",
+    "Variacao": 4.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1102061.Macarrão instantâneo",
+    "Variacao": 4.45,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103.Tubérculos, raízes e legumes",
+    "Variacao": 33.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103002.Batata-doce",
+    "Variacao": 38.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103003.Batata-inglesa",
+    "Variacao": 44.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103004.Inhame",
+    "Variacao": 7.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103005.Mandioca (aipim)",
+    "Variacao": 12.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103020.Abobrinha",
+    "Variacao": 13.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103025.Pepino",
+    "Variacao": 91.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103026.Pimentão",
+    "Variacao": 3.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103028.Tomate",
+    "Variacao": 22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103043.Cebola",
+    "Variacao": 24.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1103044.Cenoura",
+    "Variacao": 94.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104.Açúcares e derivados",
+    "Variacao": 3.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104003.Açúcar refinado",
+    "Variacao": -13.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104004.Açúcar cristal",
+    "Variacao": -15.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104018.Balas",
+    "Variacao": 7.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104023.Chocolate em barra e bombom",
+    "Variacao": 17.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104032.Sorvete",
+    "Variacao": 2.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104052.Chocolate e achocolatado em pó",
+    "Variacao": 10.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104060.Doce de frutas em pasta",
+    "Variacao": -3.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1104067.Açúcar demerara",
+    "Variacao": -10.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105.Hortaliças e verduras",
+    "Variacao": 7.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105001.Alface",
+    "Variacao": 6.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105004.Coentro",
+    "Variacao": 3.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105005.Couve",
+    "Variacao": 6.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105006.Couve-flor",
+    "Variacao": 14.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105010.Repolho",
+    "Variacao": 21.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105012.Cheiro-verde",
+    "Variacao": 8.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1105019.Brócolis",
+    "Variacao": 5.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106.Frutas",
+    "Variacao": 0.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106001.Banana-da-terra",
+    "Variacao": 7.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106003.Abacaxi",
+    "Variacao": -1.16,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106004.Abacate",
+    "Variacao": -23.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106005.Banana - d'água",
+    "Variacao": 14.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106006.Banana - maçã",
+    "Variacao": -4.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106008.Banana - prata",
+    "Variacao": 2.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106011.Laranja - baía",
+    "Variacao": -21.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106012.Laranja - lima",
+    "Variacao": -0.98,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106015.Limão",
+    "Variacao": 1.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106017.Maçã",
+    "Variacao": -7.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106018.Mamão",
+    "Variacao": 6.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106019.Manga",
+    "Variacao": -17.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106020.Maracujá",
+    "Variacao": -9.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106021.Melancia",
+    "Variacao": 8.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106022.Melão",
+    "Variacao": 30.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106023.Pera",
+    "Variacao": 5.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106027.Tangerina",
+    "Variacao": 12.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106028.Uva",
+    "Variacao": 2.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106039.Laranja - pera",
+    "Variacao": -14.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106051.Morango",
+    "Variacao": 12.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1106084.Goiaba",
+    "Variacao": -1.46,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107.Carnes",
+    "Variacao": 7.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107009.Fígado",
+    "Variacao": 15.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107018.Carne de porco",
+    "Variacao": -6.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107031.Carne de carneiro",
+    "Variacao": 0.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107081.Cupim",
+    "Variacao": 6.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107084.Contrafilé",
+    "Variacao": 10.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107085.Filé-mignon",
+    "Variacao": 9.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107087.Chã de dentro",
+    "Variacao": 9.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107088.Alcatra",
+    "Variacao": 9.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107089.Patinho",
+    "Variacao": 9.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107090.Lagarto redondo",
+    "Variacao": 11.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107091.Lagarto comum",
+    "Variacao": 8.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107093.Músculo",
+    "Variacao": 8.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107094.Pá",
+    "Variacao": 8.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107095.Acém",
+    "Variacao": 10.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107096.Peito",
+    "Variacao": 16.92,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107097.Capa de filé",
+    "Variacao": 11.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107099.Costela",
+    "Variacao": 9.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1107208.Picanha",
+    "Variacao": 7.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108.Pescados",
+    "Variacao": 1.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108002.Peixe - anchova",
+    "Variacao": 15.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108004.Peixe - corvina",
+    "Variacao": 0.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108011.Peixe - tainha",
+    "Variacao": -2.34,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108012.Peixe - sardinha",
+    "Variacao": 7.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108013.Camarão",
+    "Variacao": 2.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108019.Peixe - cavala",
+    "Variacao": 2.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108029.Peixe - cação",
+    "Variacao": 1.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108031.Peixe - merluza",
+    "Variacao": -2.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108032.Peixe - serra",
+    "Variacao": 6.42,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108038.Peixe - pescada",
+    "Variacao": 5.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108045.Caranguejo",
+    "Variacao": -1.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108049.Peixe - castanha",
+    "Variacao": -1.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108052.Peixe - palombeta",
+    "Variacao": -4.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108072.Peixe - curimatã",
+    "Variacao": 1.16,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108075.Peixe - salmão",
+    "Variacao": 1.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108080.Peixe - tilápia",
+    "Variacao": 3.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108087.Peixe - tambaqui",
+    "Variacao": -3.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108088.Peixe - dourada",
+    "Variacao": 0.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108092.Peixe - filhote",
+    "Variacao": 9.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108096.Peixe - peroá",
+    "Variacao": 48.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108112.Peixe - pintado",
+    "Variacao": -0.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1108125.Peixe - aruanã",
+    "Variacao": -3.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109.Carnes e peixes industrializados",
+    "Variacao": 1.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109002.Presunto",
+    "Variacao": -1.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109007.Salsicha",
+    "Variacao": -0.38,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109008.Linguiça",
+    "Variacao": -1.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109010.Mortadela",
+    "Variacao": -1.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109012.Salame",
+    "Variacao": -4.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109023.Bacalhau",
+    "Variacao": 15.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109056.Carne-seca e de sol",
+    "Variacao": 12.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1109058.Carne de porco salgada e defumada",
+    "Variacao": 4.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110.Aves e ovos",
+    "Variacao": -4.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110009.Frango inteiro",
+    "Variacao": -3.98,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110010.Frango em pedaços",
+    "Variacao": -4.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1110044.Ovo de galinha",
+    "Variacao": -5.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111.Leites e derivados",
+    "Variacao": 3.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111004.Leite longa vida",
+    "Variacao": 5.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111008.Leite condensado",
+    "Variacao": -1.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111009.Leite em pó",
+    "Variacao": -0.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111011.Queijo",
+    "Variacao": 2.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111019.Iogurte e bebidas lácteas",
+    "Variacao": 8.13,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111021.Requeijão",
+    "Variacao": 2.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111031.Manteiga",
+    "Variacao": -5.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1111038.Leite fermentado",
+    "Variacao": 7.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112.Panificados",
+    "Variacao": 4.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112003.Biscoito",
+    "Variacao": 3.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112015.Pão francês",
+    "Variacao": 4.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112017.Pão doce",
+    "Variacao": 4,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112018.Pão de forma",
+    "Variacao": 2.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112019.Bolo",
+    "Variacao": 5.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1112025.Pão de queijo",
+    "Variacao": 8.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113.Óleos e gorduras",
+    "Variacao": -1.88,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113013.Óleo de soja",
+    "Variacao": 1.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113014.Azeite de oliva",
+    "Variacao": -21.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1113040.Margarina",
+    "Variacao": 7.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114.Bebidas e infusões",
+    "Variacao": -2.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114001.Suco de frutas",
+    "Variacao": -0.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114003.Polpa de fruta (congelada)",
+    "Variacao": -1.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114004.Açaí (emulsão)",
+    "Variacao": 1.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114022.Café moído",
+    "Variacao": -15.98,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114023.Café solúvel",
+    "Variacao": 3.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114083.Refrigerante e água mineral",
+    "Variacao": 6.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114084.Cerveja",
+    "Variacao": 5.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114085.Outras bebidas alcoólicas",
+    "Variacao": -0.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114087.Vinho",
+    "Variacao": -1.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114090.Suco em pó",
+    "Variacao": 2.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1114091.Chá mate (erva mate)",
+    "Variacao": 2.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115.Enlatados e conservas",
+    "Variacao": 4.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115013.Alimento infantil",
+    "Variacao": 12.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115016.Palmito em conserva",
+    "Variacao": 3.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115017.Pepino em conserva",
+    "Variacao": 3.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115039.Sardinha em conserva",
+    "Variacao": 8.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115050.Salsicha em conserva",
+    "Variacao": -4.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115056.Sopa desidratada",
+    "Variacao": 6.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115057.Azeitona",
+    "Variacao": 0.34,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115058.Milho-verde em conserva",
+    "Variacao": 1.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1115075.Atum em conserva",
+    "Variacao": 5.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116.Sal e condimentos",
+    "Variacao": -5.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116001.Leite de coco",
+    "Variacao": 5.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116005.Atomatado",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116010.Alho",
+    "Variacao": -21.45,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116013.Sal",
+    "Variacao": 8.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116022.Colorau",
+    "Variacao": 5.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116023.Caldo de tucupi",
+    "Variacao": -1.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116026.Fermento",
+    "Variacao": 8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116033.Maionese",
+    "Variacao": 0.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116041.Vinagre",
+    "Variacao": 4.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116048.Caldo concentrado",
+    "Variacao": 5.19,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1116071.Tempero misto",
+    "Variacao": 7.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "12.Alimentação fora do domicílio",
+    "Variacao": 5.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201.Alimentação fora do domicílio",
+    "Variacao": 5.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201001.Refeição",
+    "Variacao": 4.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201003.Lanche",
+    "Variacao": 9.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201007.Refrigerante e água mineral",
+    "Variacao": 4.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201009.Cafezinho",
+    "Variacao": 7.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201048.Cerveja",
+    "Variacao": 3.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201051.Outras bebidas alcoólicas",
+    "Variacao": 5.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201052.Vinho",
+    "Variacao": -0.16,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201061.Doces",
+    "Variacao": 3.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "1201088.Sorvete",
+    "Variacao": 4.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2.Habitação",
+    "Variacao": 5.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "21.Encargos e manutenção",
+    "Variacao": 4.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101.Aluguel e taxas",
+    "Variacao": 4.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101001.Aluguel residencial",
+    "Variacao": 5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101002.Condomínio",
+    "Variacao": 3.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101004.Taxa de água e esgoto",
+    "Variacao": 6.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2101012.Mudança",
+    "Variacao": 10.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103.Reparos",
+    "Variacao": 6.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103005.Ferragens",
+    "Variacao": 2.78,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103008.Material de eletricidade",
+    "Variacao": 4.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103012.Vidro",
+    "Variacao": 0.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103014.Tinta",
+    "Variacao": 3.04,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103032.Revestimento de piso e parede",
+    "Variacao": 2.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103038.Madeira e taco",
+    "Variacao": 5.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103039.Cimento",
+    "Variacao": 14.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103040.Tijolo",
+    "Variacao": 10.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103041.Material hidráulico",
+    "Variacao": 11.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103042.Mão de obra",
+    "Variacao": 8.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103048.Areia",
+    "Variacao": 5.75,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103049.Pedras",
+    "Variacao": -1.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2103055.Telha",
+    "Variacao": 3.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104.Artigos de limpeza",
+    "Variacao": 2.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104003.Saco para lixo",
+    "Variacao": 9.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104005.Água sanitária",
+    "Variacao": 6.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104008.Detergente",
+    "Variacao": 4.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104009.Sabão em pó",
+    "Variacao": -1.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104012.Desinfetante",
+    "Variacao": 5.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104015.Sabão em barra",
+    "Variacao": 1.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104016.Esponja de limpeza",
+    "Variacao": 0.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104019.Sabão líquido",
+    "Variacao": 1.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104020.Limpador multiuso",
+    "Variacao": 2.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104041.Papel toalha",
+    "Variacao": -1.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2104085.Amaciante e alvejante",
+    "Variacao": 3.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "22.Combustíveis e energia",
+    "Variacao": 7.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201.Combustíveis (domésticos)",
+    "Variacao": 4.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201003.Carvão vegetal",
+    "Variacao": 7.68,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201004.Gás de botijão",
+    "Variacao": 4.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2201005.Gás encanado",
+    "Variacao": 1.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2202.Energia elétrica residencial",
+    "Variacao": 8.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "2202003.Energia elétrica residencial",
+    "Variacao": 8.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3.Artigos de residência",
+    "Variacao": 0.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "31.Móveis e utensílios",
+    "Variacao": 2.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101.Mobiliário",
+    "Variacao": 3.9,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101002.Móvel para sala",
+    "Variacao": -0.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101003.Móvel para quarto",
+    "Variacao": 6.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101015.Móvel para copa e cozinha",
+    "Variacao": 5.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101016.Móvel infantil",
+    "Variacao": 0.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3101017.Colchão",
+    "Variacao": 11.25,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102.Utensílios e enfeites",
+    "Variacao": -1.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102001.Artigos de iluminação",
+    "Variacao": -5.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102005.Tapete",
+    "Variacao": -3.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102006.Cortina",
+    "Variacao": -1.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102007.Utensílios de metal",
+    "Variacao": 0.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102009.Utensílios de vidro e louça",
+    "Variacao": -0.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102010.Utensílios de plástico",
+    "Variacao": -1.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102035.Flores naturais",
+    "Variacao": 2.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3102337.Utensílios para bebê",
+    "Variacao": 4.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3103.Cama, mesa e banho",
+    "Variacao": -0.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3103001.Roupa de cama",
+    "Variacao": -0.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3103003.Roupa de banho",
+    "Variacao": 3.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "32.Aparelhos eletroeletrônicos",
+    "Variacao": -2.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201.Eletrodomésticos e equipamentos",
+    "Variacao": -5.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201001.Refrigerador",
+    "Variacao": -7.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201002.Ar-condicionado",
+    "Variacao": -7.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201006.Máquina de lavar roupa",
+    "Variacao": -1.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201013.Ventilador",
+    "Variacao": -4.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201021.Fogão",
+    "Variacao": -6.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3201050.Chuveiro elétrico",
+    "Variacao": 5.54,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202.Tv, som e informática",
+    "Variacao": 1.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202001.Televisor",
+    "Variacao": -1.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202003.Aparelho de som",
+    "Variacao": 1.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202008.Videogame (console)",
+    "Variacao": 13.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3202028.Computador pessoal",
+    "Variacao": 6.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "33.Consertos e manutenção",
+    "Variacao": 6.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301.Consertos e manutenção",
+    "Variacao": 6.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301002.Conserto de refrigerador",
+    "Variacao": 4.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301006.Conserto de televisor",
+    "Variacao": 11.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301015.Conserto de máquina de lavar roupa",
+    "Variacao": -2.5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301022.Reforma de estofado",
+    "Variacao": 9.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301088.Conserto de aparelho celular",
+    "Variacao": 1.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "3301130.Conserto de bicicleta",
+    "Variacao": 8.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4.Vestuário",
+    "Variacao": 3.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "41.Roupas",
+    "Variacao": 2.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101.Roupa masculina",
+    "Variacao": 3.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101002.Calça comprida masculina",
+    "Variacao": 3.98,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101005.Agasalho masculino",
+    "Variacao": 2.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101006.Bermuda/short masculino",
+    "Variacao": 3.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101008.Cueca",
+    "Variacao": 0.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4101009.Camisa/camiseta masculina",
+    "Variacao": 2.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102.Roupa feminina",
+    "Variacao": 1.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102002.Calça comprida feminina",
+    "Variacao": 3.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102003.Agasalho feminino",
+    "Variacao": 2.73,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102004.Saia",
+    "Variacao": -2.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102005.Vestido",
+    "Variacao": 2.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102008.Blusa",
+    "Variacao": 0.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102010.Lingerie",
+    "Variacao": 3.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4102013.Bermuda/short feminino",
+    "Variacao": 1.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103.Roupa infantil",
+    "Variacao": 2.58,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103001.Uniforme escolar",
+    "Variacao": 4.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103002.Calça comprida infantil",
+    "Variacao": 4.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103005.Agasalho infantil",
+    "Variacao": 5.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103007.Vestido infantil",
+    "Variacao": 2.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103008.Bermuda/short infantil",
+    "Variacao": 1.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103011.Camisa/camiseta infantil",
+    "Variacao": 2.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4103031.Conjunto infantil",
+    "Variacao": 1.23,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "42.Calçados e acessórios",
+    "Variacao": 5.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201.Calçados e acessórios",
+    "Variacao": 5.51,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201002.Sapato masculino",
+    "Variacao": 7.44,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201003.Sapato feminino",
+    "Variacao": 5.74,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201004.Sapato infantil",
+    "Variacao": 9.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201015.Bolsa",
+    "Variacao": 3.04,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201040.Mochila",
+    "Variacao": 4.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201063.Tênis",
+    "Variacao": 4.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4201098.Sandália/chinelo",
+    "Variacao": 5.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "43.Joias e bijuterias",
+    "Variacao": 16.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301.Joias e bijuterias",
+    "Variacao": 16.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301001.Bijuteria",
+    "Variacao": 5.52,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301002.Joia",
+    "Variacao": 21.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4301004.Relógio de pulso",
+    "Variacao": 3.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "44.Tecidos e armarinho",
+    "Variacao": 1.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4401.Tecidos e armarinho",
+    "Variacao": 1.55,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4401001.Tecido",
+    "Variacao": 1.48,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "4401002.Artigos de armarinho",
+    "Variacao": 1.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5.Transportes",
+    "Variacao": 3.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "51.Transportes",
+    "Variacao": 3.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101.Transporte público",
+    "Variacao": 13.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101001.Ônibus urbano",
+    "Variacao": 4.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101002.Táxi",
+    "Variacao": 8.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101004.Trem",
+    "Variacao": 2.07,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101006.Ônibus intermunicipal",
+    "Variacao": 7.04,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101007.Ônibus interestadual",
+    "Variacao": 7.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101010.Passagem aérea",
+    "Variacao": 52.38,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101011.Metrô",
+    "Variacao": 2.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101026.Transporte escolar",
+    "Variacao": 4.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101051.Transporte por aplicativo",
+    "Variacao": 10.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5101053.Integração transporte público",
+    "Variacao": 5.45,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102.Veículo próprio",
+    "Variacao": 0.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102001.Automóvel novo",
+    "Variacao": 1.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102004.Emplacamento e licença",
+    "Variacao": 0.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102005.Seguro voluntário de veículo",
+    "Variacao": -7.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102006.Multa",
+    "Variacao": 0,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102007.Óleo lubrificante",
+    "Variacao": 8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102009.Acessórios e peças",
+    "Variacao": 2.69,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102010.Pneu",
+    "Variacao": -5.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102011.Conserto de automóvel",
+    "Variacao": 5.01,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102013.Estacionamento",
+    "Variacao": 10.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102015.Pedágio",
+    "Variacao": 5.47,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102020.Automóvel usado",
+    "Variacao": -1.89,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102037.Pintura de veículo",
+    "Variacao": 5.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102051.Aluguel de veículo",
+    "Variacao": 0.82,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5102053.Motocicleta",
+    "Variacao": 2.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104.Combustíveis (veículos)",
+    "Variacao": 5.28,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104001.Gasolina",
+    "Variacao": 5.67,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104002.Etanol",
+    "Variacao": -0.32,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104003.Óleo diesel",
+    "Variacao": 14.71,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "5104005.Gás veicular",
+    "Variacao": -2.27,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6.Saúde e cuidados pessoais",
+    "Variacao": 6.21,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "61.Produtos farmacêuticos e óticos",
+    "Variacao": 4.16,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101.Produtos farmacêuticos",
+    "Variacao": 4.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101001.Anti-infeccioso e antibiótico",
+    "Variacao": 2.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101002.Analgésico e antitérmico",
+    "Variacao": 4.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101003.Anti-inflamatório e antirreumático",
+    "Variacao": 5,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101004.Antigripal e antitussígeno",
+    "Variacao": 5.61,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101006.Dermatológico",
+    "Variacao": 5.03,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101007.Antialérgico e broncodilatador",
+    "Variacao": 4.18,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101009.Gastroprotetor",
+    "Variacao": 3.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101010.Vitamina e fortificante",
+    "Variacao": 1.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101011.Hormonal",
+    "Variacao": 1.85,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101013.Psicotrópico e anorexígeno",
+    "Variacao": 4.2,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101014.Hipotensor e hipocolesterolêmico",
+    "Variacao": 4.87,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101051.Oftalmológico",
+    "Variacao": 8.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101064.Antidiabético",
+    "Variacao": 2.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6101148.Neurológico",
+    "Variacao": 3.84,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6102.Produtos óticos",
+    "Variacao": 4,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6102012.Óculos de grau",
+    "Variacao": 4,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "62.Serviços de saúde",
+    "Variacao": 6.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201.Serviços médicos e dentários",
+    "Variacao": 8.24,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201002.Médico",
+    "Variacao": 7.59,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201003.Dentista",
+    "Variacao": 9.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201005.Aparelho ortodôntico",
+    "Variacao": 6.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201007.Fisioterapeuta",
+    "Variacao": 13.29,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6201010.Psicólogo",
+    "Variacao": 5.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202.Serviços laboratoriais e hospitalares",
+    "Variacao": 5.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202003.Exame de laboratório",
+    "Variacao": 4.65,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202004.Hospitalização e cirurgia",
+    "Variacao": 5.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6202006.Exame de imagem",
+    "Variacao": 5.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6203.Plano de saúde",
+    "Variacao": 5.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6203001.Plano de saúde",
+    "Variacao": 5.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "63.Cuidados pessoais",
+    "Variacao": 8.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301.Higiene pessoal",
+    "Variacao": 8.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301001.Produto para cabelo",
+    "Variacao": 8.8,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301002.Fralda descartável",
+    "Variacao": 3.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301004.Produto para barba",
+    "Variacao": 8.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301006.Produto para pele",
+    "Variacao": 8.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301007.Produto para higiene bucal",
+    "Variacao": 7.94,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301010.Produto para unha",
+    "Variacao": 2.3,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301011.Perfume",
+    "Variacao": 11.08,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301014.Desodorante",
+    "Variacao": 5.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301015.Absorvente higiênico",
+    "Variacao": 3.86,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301016.Sabonete",
+    "Variacao": 6.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301017.Papel higiênico",
+    "Variacao": 4.88,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "6301020.Artigos de maquiagem",
+    "Variacao": 5.7,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7.Despesas pessoais",
+    "Variacao": 5.79,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "71.Serviços pessoais",
+    "Variacao": 5.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101.Serviços pessoais",
+    "Variacao": 5.93,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101001.Costureira",
+    "Variacao": 1.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101005.Manicure",
+    "Variacao": 8.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101010.Empregado doméstico",
+    "Variacao": 6.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101011.Cabeleireiro e barbeiro",
+    "Variacao": 7.4,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101014.Depilação",
+    "Variacao": 6.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101034.Cartório",
+    "Variacao": 4.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101036.Despachante",
+    "Variacao": 0.63,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101076.Serviço bancário",
+    "Variacao": 4.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101090.Conselho de classe",
+    "Variacao": 4.43,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7101144.Sobrancelha",
+    "Variacao": 6.62,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "72.Recreação e fumo",
+    "Variacao": 5.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201.Recreação",
+    "Variacao": 6.09,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201006.Clube",
+    "Variacao": 9.36,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201010.Instrumento musical",
+    "Variacao": 2.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201015.Tratamento de animais (clínica)",
+    "Variacao": 6.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201019.Bicicleta",
+    "Variacao": 0.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201020.Alimento para animais",
+    "Variacao": 0.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201023.Brinquedo",
+    "Variacao": 3.1,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201054.Casa noturna",
+    "Variacao": 7.53,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201063.Jogos de azar",
+    "Variacao": 15.17,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201067.Material de caça e pesca",
+    "Variacao": -2.77,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201090.Hospedagem",
+    "Variacao": 6.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201095.Pacote turístico",
+    "Variacao": 5.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201256.Serviço de higiene para animais",
+    "Variacao": 6.91,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7201266.Cinema, teatro e concertos",
+    "Variacao": 3.99,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7202.Fumo",
+    "Variacao": 2.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "7202041.Cigarro",
+    "Variacao": 2.66,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8.Educação",
+    "Variacao": 6.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "81.Cursos, leitura e papelaria",
+    "Variacao": 6.33,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101.Cursos regulares",
+    "Variacao": 7.05,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101001.Creche",
+    "Variacao": 6.95,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101002.Pré-escola",
+    "Variacao": 8.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101003.Ensino fundamental",
+    "Variacao": 8.81,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101004.Ensino médio",
+    "Variacao": 8.57,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101005.Ensino superior",
+    "Variacao": 5.6,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101006.Pós-graduação",
+    "Variacao": 1.56,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101008.Educação de jovens e adultos",
+    "Variacao": 3.14,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8101045.Curso técnico",
+    "Variacao": 3.97,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102.Leitura",
+    "Variacao": 3.49,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102001.Jornal diário",
+    "Variacao": 6.39,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102004.Revista",
+    "Variacao": -5.02,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102007.Livro didático",
+    "Variacao": 3.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8102008.Livro não didático",
+    "Variacao": 6.15,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8103.Papelaria",
+    "Variacao": 0.22,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8103001.Caderno",
+    "Variacao": -4.06,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8103014.Artigos de papelaria",
+    "Variacao": 2.81,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104.Cursos diversos",
+    "Variacao": 5.26,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104001.Curso preparatório",
+    "Variacao": 4.11,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104003.Curso de idioma",
+    "Variacao": 6.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104004.Curso de informática",
+    "Variacao": -1.31,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104005.Autoescola",
+    "Variacao": -4.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "8104006.Atividades físicas",
+    "Variacao": 6.12,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9.Comunicação",
+    "Variacao": 1.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "91.Comunicação",
+    "Variacao": 1.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101.Comunicação",
+    "Variacao": 1.83,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101001.Correio",
+    "Variacao": 4.72,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101002.Plano de telefonia fixa",
+    "Variacao": 0,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101008.Plano de telefonia móvel",
+    "Variacao": 3.96,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101010.Tv por assinatura",
+    "Variacao": 4.35,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101018.Acesso à internet",
+    "Variacao": 0,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101019.Aparelho telefônico",
+    "Variacao": -1.41,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
+    "Grupo": "9101115.Serviços de streaming",
+    "Variacao": 6.37,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-06-01",
     "Grupo": "9101116.Combo de telefonia, internet e tv por assinatura",
     "Variacao": 1.31,
     "Tipo_Variacao": "Acumulado 12 meses"
