@@ -2790,6 +2790,11 @@
     "Tipo_Variacao": "Mensal"
   },
   {
+    "Data": "2026-07-01",
+    "Variacao": 0.07,
+    "Tipo_Variacao": "Mensal"
+  },
+  {
     "Data": "1980-12-01",
     "Variacao": 99.25,
     "Tipo_Variacao": "Acumulado 12 meses"
@@ -5522,6 +5527,11 @@
   {
     "Data": "2026-06-01",
     "Variacao": 4.64,
+    "Tipo_Variacao": "Acumulado 12 meses"
+  },
+  {
+    "Data": "2026-07-01",
+    "Variacao": 4.44,
     "Tipo_Variacao": "Acumulado 12 meses"
   }
 ]
